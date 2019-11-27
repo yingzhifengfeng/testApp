@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "75C84DSWC2.com.yunzainfo.app.ofline",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
